@@ -208,11 +208,7 @@ Make sure the corresponding trained model file and required dataset are availabl
 - Support more plant species and disease categories.
 - Improve model accuracy using larger datasets.
 - Deploy the prediction system on cloud platforms.
-- Develop a mobile application for farmers.
-
-## 👨‍💻 Project Contributors
-
-**Sunny Kumar**  
+- Develop a mobile application for farmers. 
 
 ## 📜 License
 
